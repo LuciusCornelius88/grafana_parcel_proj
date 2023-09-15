@@ -20,6 +20,7 @@
   "dependencies": {
     "buffer": "^6.0.3",
     "dotenv": "^16.3.1",
+    "https-browserify": "^1.0.0",
     "modern-normalize": "^1.1.0",
     "node-fetch": "^3.3.2",
     "path-browserify": "^1.0.1",
