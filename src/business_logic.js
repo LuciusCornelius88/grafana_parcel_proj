@@ -1,6 +1,6 @@
 import fs from 'fs';
-import path from 'path';
 import fetch from 'node-fetch';
+var path = require('path');
 
 async function getAllDashboards(input) {
   const { grafanaUrl, headers } = input;
